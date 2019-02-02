@@ -12,7 +12,9 @@ accept the following inputs in the following format:
 
 Examples inputs:
 “123456789AB DEFC” BFS 1
+
 “123456789AB DEFC” AStar 1
+
 “123456789AB DEFC” AStar 2
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
