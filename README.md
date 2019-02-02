@@ -11,6 +11,7 @@ accept the following inputs in the following format:
 [heuristicFunction] can be 1 or 2. Where 1 is to count the number of misplaced tiles, while 2 is to count the Manhattan distance (moves required for each tile to get) to the goal states. 
 
 Examples inputs:
+
 “123456789AB DEFC” BFS 1
 
 “123456789AB DEFC” AStar 1
